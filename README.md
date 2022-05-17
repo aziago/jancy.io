@@ -1,2 +1,3 @@
 # jancy.io
-jancy.io source
+
+Source code for the jancy.io github page.
